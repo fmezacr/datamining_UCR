@@ -1,3 +1,3 @@
 # datamining_UCR
 
-Algunas notas sobre el curso de Minieria de Datos de la Maestria en BioInformatica de la Universidad de Costa Rica.
+Algunas notebooks sobre el curso de Miniería de Datos de la Maestría en BioInformática de la Universidad de Costa Rica.
